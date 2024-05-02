@@ -1,0 +1,9 @@
+Test suite boggle-tests: RUNNING...
+Cases: 7  Tried: 0  Errors: 0  Failures: 0                                          ### Failure in: 0
+tests\BoggleTest.hs:51
+1: Word not legal
+expected: False
+ but got: True
+Cases: 7  Tried: 1  Errors: 0  Failures: 1Cases: 7  Tried: 2  Errors: 0  Failures: 1Cases: 7  Tried: 3  Errors: 0  Failures: 1Cases: 7  Tried: 4  Errors: 0  Failures: 1Cases: 7  Tried: 5  Errors: 0  Failures: 1Cases: 7  Tried: 6  Errors: 0  Failures: 1                                          Cases: 7  Tried: 7  Errors: 0  Failures: 1
+Test suite boggle-tests: FAIL
+Test suite logged to: C:\Users\sahar\OneDrive\Documents\TMU\8\CPS506\Haskell\tester_hs\tester_hs_simple\dist-newstyle\build\x86_64-windows\ghc-9.4.8\boggle-0.1.0.0\t\boggle-tests\test\boggle-0.1.0.0-boggle-tests.log
